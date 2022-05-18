@@ -1,22 +1,18 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/dog.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Bark
-Barks like a dog
+Say good night (this is just a test)
 
 ## About
-Ask mycroft to bark and it will say ruff
+Tell Mycroft Good night and it will respond
 
 ## Examples
-* "Bark"
-* "What does a dog say"
-* "Look at that cat"
-* "Mailman is here"
+
 
 ## Credits
-Bret Padres
+Bret Padres (Based on his Bark skill)
 
 ## Category
 **Daily**
 
 ## Tags
-#Dog
-#Bark
+#Nite
+#Test
 
